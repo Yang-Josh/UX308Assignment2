@@ -7,47 +7,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/about-dining/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/about-cooking/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/about-ingrediants/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/about/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/shio-ramen/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/fried-udon/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products/tom-yum/
+            http://localhost:8000/sample-page/
         </loc>
     </url>
     <url>

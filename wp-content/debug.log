@@ -1,1 +1,7 @@
 [13-Mar-2025 23:24:11 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX308Lab6/.wordpress/wp-includes/pluggable.php on line 1625
+[20-Mar-2025 23:25:14 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/UX308Assignment2/.wordpress/wp-includes/user.php on line 3245
+[20-Mar-2025 23:26:46 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/UX308Assignment2/.wordpress/wp-includes/user.php on line 3245
+[20-Mar-2025 23:30:25 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/UX308Assignment2/.wordpress/wp-includes/user.php on line 3245
+[20-Mar-2025 23:32:29 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/UX308Assignment2/.wordpress/wp-includes/user.php on line 3245
+[20-Mar-2025 23:32:47 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/UX308Assignment2/.wordpress/wp-includes/user.php on line 3245
+[20-Mar-2025 23:35:23 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/UX308Assignment2/.wordpress/wp-includes/user.php on line 3245

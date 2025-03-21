@@ -5,3 +5,8 @@
 [20-Mar-2025 23:32:29 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/UX308Assignment2/.wordpress/wp-includes/user.php on line 3245
 [20-Mar-2025 23:32:47 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/UX308Assignment2/.wordpress/wp-includes/user.php on line 3245
 [20-Mar-2025 23:35:23 UTC] PHP Warning:  Undefined array key "REMOTE_ADDR" in /workspaces/UX308Assignment2/.wordpress/wp-includes/user.php on line 3245
+[21-Mar-2025 00:05:49 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX308Assignment2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[21-Mar-2025 00:09:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /workspaces/UX308Assignment2/.wordpress/wp-content/themes/assignment-2/functions.php on line 18
+[21-Mar-2025 00:09:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /workspaces/UX308Assignment2/.wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[21-Mar-2025 00:09:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /workspaces/UX308Assignment2/.wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[21-Mar-2025 00:10:11 UTC] PHP Parse error:  Unclosed '(' on line 15 in /workspaces/UX308Assignment2/.wordpress/wp-content/themes/assignment-2/functions.php on line 18

@@ -11,9 +11,9 @@ function theme_enqueue_styles() {
         array('parent-style')
     );
     wp_enqueue_script('custom_javascript', get_stylesheet_directory_uri() . '/customElements.js');
+wp_enqueue_script_module('custom_module1',"https://yang-josh.github.io/Assignment-1/index.js");
+wp_enqueue_script_module('custom_module2',"https://yang-josh.github.io/Assignment-1/fab.js");
 }
-wp_enqueue_script_module('custom_module1',"https://github.com/Yang-Josh/Assignment-1/index.js");
-wp_enqueue_script_module('custom_module2',"https://github.com/Yang-Josh/Assignment-1/fab.js");
 //
 // Your code goes below
 //
